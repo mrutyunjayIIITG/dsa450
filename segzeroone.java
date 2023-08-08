@@ -2,7 +2,7 @@ public class segzeroone {
 
  public static void show(int[] arr)
  {
-   
+//print 
      for(int element:arr)
      {
         System.out.println(element);
