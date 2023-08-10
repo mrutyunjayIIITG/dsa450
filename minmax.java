@@ -71,7 +71,7 @@ class Compute
             }
             else if(a[i]<min){
                 min=a[i];
-            }
+            }  //t
 
          }
           Pair result = new Pair(min, max);
